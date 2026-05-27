@@ -8,7 +8,7 @@ This repository is a clean release archive for pre-generated font files—not a 
 
 ## Overview
 
-Pre-patched Nerd Font variants based on the beautiful [Red Hat Mono](https://github.com/RedHatOfficial/RedHatFont) typeface. Choose between strict monospace alignment for terminals and code or visually detailed icons for general use.
+Pre-patched Nerd Font variants based on [Red Hat Font v5.0.0](https://github.com/RedHatOfficial/RedHatFont/releases/tag/5.0.0). Choose between strict monospace alignment for terminals and code or visually detailed icons for general use.
 
 **Available formats:**
 - TTF and OTF
@@ -90,11 +90,12 @@ Use the exact name shown in your system.
 ### Red Hat Mono
 The base typeface, an open-source monospace font by Red Hat.
 
-- **Source:** [github.com/RedHatOfficial/RedHatMono](https://github.com/RedHatOfficial/RedHatFont)
+- **Version used:** [5.0.0](https://github.com/RedHatOfficial/RedHatFont/releases/tag/5.0.0)
+- **Source:** [github.com/RedHatOfficial/RedHatFont](https://github.com/RedHatOfficial/RedHatFont)
 - **License:** [SIL Open Font License 1.1](https://opensource.org/licenses/OFL-1.1)
 
 ### Nerd Fonts Patcher
-Applied to add extensive glyph support for developer tools, shells, and terminal applications.
+Applied with **v3.4.0** to add extensive glyph support for developer tools, shells, and terminal applications.
 
 - **Source:** [nerdfonts.com](https://www.nerdfonts.com/)
 - **Project:** [github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
@@ -129,6 +130,11 @@ The patched variants provided here combine both projects under the [SIL Open Fon
 These fonts are derived from [Red Hat Mono](https://github.com/RedHatOfficial/RedHatFont) (OFL 1.1) and patched using the [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) patcher (MIT). The resulting fonts are distributed under the SIL Open Font License 1.1.
 
 See the included `LICENSE` and `OFL.txt` files for complete details.
+
+## Changelog
+
+- **2026-05-27** — Updated to [Red Hat Font v5.0.0](https://github.com/RedHatOfficial/RedHatFont/releases/tag/5.0.0), repatched with Nerd Fonts Patcher v3.4.0
+- **2026-05-26** — Initial release based on [Red Hat Font v4.1.0](https://github.com/RedHatOfficial/RedHatFont/releases/tag/4.1.0)
 
 ## Project Status
 
