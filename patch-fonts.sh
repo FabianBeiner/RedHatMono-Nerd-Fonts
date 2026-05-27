@@ -5,8 +5,8 @@ shopt -s nullglob
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PATCHER="$SCRIPT_DIR/FontPatcher/font-patcher"
 
-TTF_DIR="$SCRIPT_DIR/RedHatFont-4.1.0/fonts/Mono/ttf"
-OTF_DIR="$SCRIPT_DIR/RedHatFont-4.1.0/fonts/Mono/otf"
+TTF_DIR="$SCRIPT_DIR/RedHatFont-5.0.0/fonts/Mono/RedHatMono/ttf"
+OTF_DIR="$SCRIPT_DIR/RedHatFont-5.0.0/fonts/Mono/RedHatMono/otf"
 
 OUTPUT_DIR="$SCRIPT_DIR/output"
 LOG_DIR="$OUTPUT_DIR/logs"
